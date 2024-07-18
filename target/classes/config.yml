@@ -1,0 +1,26 @@
+blue_team_spawn_x: 1175.5
+blue_team_spawn_y: -37.
+blue_team_spawn_z: 982.5
+
+blue_well_x_1: 1177.
+blue_well_y_1: -28.
+blue_well_z_1: 984.
+blue_well_x_2: 1173.
+blue_well_y_2: -25.
+blue_well_z_2: 980.
+
+red_team_spawn_x: 1009.5
+red_team_spawn_y: -37.
+red_team_spawn_z: 982.5
+
+red_well_x_1: 1007.
+red_well_y_1: -25.
+red_well_z_1: 980.
+red_well_x_2: 1011.
+red_well_y_2: -28.
+red_well_z_2: 984.
+
+points_to_win: 6
+players_required_to_start_towers: 1
+
+map_towers: the_towers_void_map_temp
